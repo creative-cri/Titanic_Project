@@ -1,6 +1,4 @@
 # Titanic_Project
-Titanic_Project
-
 Titanic
 
 Goal of this project:¶
